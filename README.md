@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @tayyabsattar
-- 👀 I’m interested in to become best Web Developer.
-- 🌱 I’m currently learning Computer Science 
 
 
 <!---
